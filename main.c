@@ -2,13 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* ASSIGNMENT 1 for Data Structure and Algorithm Development C
- * Author: Divjot Chawla
- * Date: 3 June, 2020
- * Version: 1.6
- * Description: This is a Sudoku grid game which asks for user input and also validates the grid
- * Submitted to: Muhammad Mohiuddin
- */
 
 #define TRUE 1
 #define FALSE 0
